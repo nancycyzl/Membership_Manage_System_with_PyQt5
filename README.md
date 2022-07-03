@@ -9,9 +9,9 @@ Watch demo video [here](https://youtu.be/gPq2NIfvZGk)
 <br />
 All the data is simply stored in excel files, as this project is focused on PyQt5 so
 there is no need to build a complicated database system.  
-The 2 excel files included are:
-> 会员信息.xlsx: storing member id, name, phone number, points, remaining and remarks  
-> 消费条目.xlsx: storing member id, amount spent, date and remarks
+The 2 excel files included are:  
+>会员信息.xlsx: storing member id, name, phone number, points, remaining and remarks  
+>消费条目.xlsx: storing member id, amount spent, date and remarks
 
 Just a side note that, *points* and *remaining* here are related to a specific function
 in our membership management system. We adopt a cumulative point system for the benefits of membership.
